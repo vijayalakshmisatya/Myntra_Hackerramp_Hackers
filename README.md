@@ -7,7 +7,7 @@ In today's fast-paced world, people struggle to keep up with rapidly changing fa
 
 Solution :
 
-**Fashion Vista**, which includes three different features: **Street Style, Event-Based Outfits, and Myntra Community.**.
+**Fashion Vista**, which includes three different features: **Street Style, Event-Based Outfits, and Myntra Community.**
 **Street Style**: Explore real-life fashion trends from cities around the world! Like outfits, shop the look, and see who posted it. Get inspired for your next look!.
 **Event-Based Outfits:** No more outfit stress! Find perfect outfits for any occasion, from formal events to casual get-togethers. Browse a variety of styles and choose your favorite.
 **Myntra Community:** Connect with other fashion lovers! See posts from influencers, like their styles, and get inspired by their creativity. Share your own style using city hashtags to connect with your local fashion scene. Influencers can even earn rewards for their posts!
