@@ -1,0 +1,13 @@
+.upload-button {
+    display: inline-block;
+    position: relative;
+  }
+  
+  .custom-file-upload {
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  #file-upload {
+    display: none;
+  }
