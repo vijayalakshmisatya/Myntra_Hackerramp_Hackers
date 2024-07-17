@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Myntra_Hackerramp_Hackers
 
 **Problem :**
