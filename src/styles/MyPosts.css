@@ -1,0 +1,26 @@
+.my-posts-page {
+    padding: 20px;
+    background: #f7f7f7;
+  }
+  
+  .my-posts-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .my-post-card {
+    background: white;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .my-post-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  

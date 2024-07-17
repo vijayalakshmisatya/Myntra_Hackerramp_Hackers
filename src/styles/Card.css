@@ -1,0 +1,52 @@
+.city-card {
+  position: relative;
+  width: calc(50% - 20px); /* Two cards side by side */
+  height: 500px;
+  overflow: hidden;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.card-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+
+.city-card:hover .card-image {
+  transform: scale(1.1);
+}
+
+.card-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.city-card:hover .card-overlay {
+  opacity: 1;
+}
+
+.card-text {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.explore-button {
+  background: #ff3e6c; /* Myntra color */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
